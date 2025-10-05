@@ -1,0 +1,51 @@
+/Create an abstract base class Shape with a pure virtual function area().Then implement two derived classes :
+//Rectangle – stores width and height
+//Circle – stores radius
+//Each should implement the area() method to return the correct area.
+//Finally, write a function printArea(Shape * s) that takes a pointer to Shape and prints the result of s->area()
+
+
+#include<bits/stdc++.h>
+using namespace std;
+class Shape {
+	public:
+		double virtual area() =0;
+};
+
+class Rectangle : public Shape {
+	private:
+		double width;
+		double height;
+	public:
+		Rectangle(double width, double height) {
+			this->width = width;
+			this->height = height;
+		}
+		double area() {
+			return width*height;
+		}
+};
+
+class Circle : public Shape {
+	private:
+		double radius;
+	public:
+		Circle(double radius) {
+			this->radius = radius;
+		}
+		double area() {
+			return (3.14)(radius)(radius);
+		}
+};
+
+void printArea(Shape * s) {
+	cout<<s->area()<<endl;
+}
+
+int main() {
+	Rectangle r(2.0,3.0);
+	Circle c(5.0)
+	printArea(&r);
+	printArea(&c);
+	return 0;
+}
