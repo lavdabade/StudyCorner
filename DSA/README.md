@@ -221,3 +221,11 @@ Graph :
         19 : Bipartite Graph DFS
         20 : Number of Distinct Islands BFS
         21 : Number of Distinct Islands DFS
+
+Tries : 
+    1 : Implement TRIE | INSERT | SEARCH | STARTSWITH
+    2 : Implement Trie - 2 (Prefix Tree)
+    3 : Longest String with All Prefixes
+    4 : Number of Distinct Substrings in a String
+    5 : Maximum XOR of two numbers in an array
+    6 : Maximum XOR With an Element From Array
