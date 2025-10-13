@@ -159,10 +159,10 @@ BinarySearchTree :
         9 : Construct a BST from a preorder traversal
         10 : Construct a BST from a postorder traversal
         11 : Inorder Successor/Predecessor in BST
-        Merge 2 BST's
-        Two Sum In BST | Check if there exists a pair with Sum K
-        Recover BST | Correct BST with two nodes swapped
-        Largest BST in Binary Tree
+        12 : Merge 2 BST's
+        13 : Two Sum In BST | Check if there exists a pair with Sum K   [egde case: tree [1] target [2]]
+        14 : Recover BST | Correct BST with two nodes swapped
+        15 : Largest BST in Binary Tree
 
 SlidingWindowAndTwoPointer :
     MediumProblem :
