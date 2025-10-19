@@ -6,46 +6,48 @@ Array :
         4 : Check if the array is sorted and Rotated
         5 : Remove duplicates from Sorted array
         6 : Remove duplicates from Sorted array in-place
-        Left Rotate an array by one place
-        Left rotate an array by D places
-        Move Zeros to end
-        Linear Search
-        Find the Union
-        Find missing number in an array
-        Maximum Consecutive Ones
-        Find the number that appears once, and other numbers twice.
-        Longest subarray with given sum K(positives)
-        Longest subarray with sum K (Positives + Negatives)
+        7 : Left Rotate an array by one place
+        8 : Left rotate an array by D places
+        9 : Move Zeros to end
+        10 : Linear Search
+        11 : Find the Union
+        12 : Find missing number in an array
+        13 : Maximum Consecutive bits
+        14 : Find the number that appears once, and other numbers twice.
+        15 : Longest subarray with given sum K(positives)
+        16 : Longest subarray with sum K (Positives + Negatives)
 
     Medium :
-        2Sum Problem
-        Sort an array of 0's 1's and 2's
-        Majority Element (>n/2 times)
-        Kadane's Algorithm, maximum subarray sum
-        Print subarray with maximum subarray sum (extended version of above problem)
-        Stock Buy and Sell
-        Rearrange the array in alternating positive and negative items
-        Next Permutation
-        Leaders in an Array problem
-        Longest Consecutive Sequence in an Array
-        Set Matrix Zeros
-        Rotate Matrix by 90 degrees
-        Print the matrix in spiral manner
-        Count subarrays with given sum
+        1 : 2Sum Problem
+        2 : Sort an array of 0's 1's and 2's
+        3 : Majority Element (>n/2 times)
+        4 : Maximum Sub Array
+        5 : Kadane's Algorithm, maximum subarray sum
+        6 : Print subarray with maximum subarray sum (extended version of above problem)
+        7 : Stock Buy and Sell
+        8 : Rearrange the array in alternating positive and negative items
+        9 : Next Permutation
+        10 : Leaders in an Array problem
+        11 : Longest Consecutive Sequence in an Array
+        12 : Set Matrix Zeros
+        13 : Rotate Matrix by 90 degrees
+        14 : Print the matrix in spiral manner
+        15 : Count subarrays with given sum
 
     Hard :
-        Pascal's Triangle
-        Majority Element (n/3 times)
-        3-Sum Problem
-        4-Sum Problem
-        Largest Subarray with 0 Sum
-        Count number of subarrays with given xor K
-        Merge Overlapping Subintervals
-        Merge two sorted arrays without extra space
-        Find the repeating and missing number
-        Count Inversions
-        Reverse Pairs
-        Maximum Product Subarray
+        1 : Pascal's Triangle
+        2 : Majority Element (n/3 times)
+        3 : 3-Sum Problem
+        4 : 4-Sum Problem
+        5 : Largest Subarray with 0 Sum
+        6 : Count number of subarrays with given xor K
+        7 : Merge Overlapping Subintervals
+        8 : Insert Interval  [edge case: first or last non overlapping interval]
+        9 : Merge two sorted arrays without extra space
+        10 : Find the repeating and missing number
+        11 : Count Inversions
+        12 : Reverse Pairs
+        13 : Maximum Product Subarray
 
 Binary Search :
     1DArray :
@@ -180,19 +182,6 @@ SlidingWindowAndTwoPointer :
         Subarray with k different integers
         Minimum Window Substring
         Minimum Window Subsequence
-
-
-Tries :
-    Theory :
-        Implement TRIE | INSERT | SEARCH | STARTSWITH
-
-    Problem :
-        Implement Trie - 2 (Prefix Tree)
-        Longest String with All Prefixes
-        Number of Distinct Substrings in a String
-        Bit PreRequisites for TRIE Problems
-        Maximum XOR of two numbers in an array
-        Maximum XOR With an Element From Array
 
 Graph :
     Traversal :
