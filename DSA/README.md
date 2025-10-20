@@ -168,20 +168,20 @@ BinarySearchTree :
 
 SlidingWindowAndTwoPointer :
     MediumProblem :
-        Longest Substring Without Repeating Characters
-        Max Consecutive Ones III
-        Fruit Into Baskets
-        longest repeating character replacement
-        Binary subarray with sum
-        Count number of nice subarrays
-        Number of substring containing all three characters
-        Maximum point you can obtain from cards
+        1 : Longest Substring Without Repeating Characters
+        2 : Max Consecutive Ones III
+        3 : Fruit Into Baskets
+        4 : Longest repeating character replacement
+        5 : Binary subarray with sum [Trick: go with lessThanOrEqual]
+        6 : Count number of nice subarrays
+        7 : Number of substring containing all three characters
+        8 : Maximum point you can obtain from cards
 
     HardProblem :
-        Longest Substring with At Most K Distinct Characters
-        Subarray with k different integers
-        Minimum Window Substring
-        Minimum Window Subsequence
+        1 : Longest Substring with At Most K Distinct Characters
+        2 : Subarray with k different integers
+        3 : Minimum Window Substring
+        4 : Minimum Window Subsequence
 
 SortingTechniques :
     1 : Selection Sort
