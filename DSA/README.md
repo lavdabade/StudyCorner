@@ -183,6 +183,13 @@ SlidingWindowAndTwoPointer :
         Minimum Window Substring
         Minimum Window Subsequence
 
+SortingTechniques :
+    1 : Selection Sort
+    2 : Insertion Sort
+    3 : Bubble Sort
+    4 : Merge Sort
+    5 : Quick Sort
+
 Graph :
     Traversal :
         1 : BFS on Connected Graph
