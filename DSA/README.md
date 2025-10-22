@@ -65,41 +65,29 @@ Binary Search :
         12 : Find out how many times has an array been rotated
         13 : Single element in a Sorted Array
         14 : Find peak element
+    
+    2DArray : 
+        1 : Find the row with maximum number of 1's
+        2 : Search in a 2 D matrix
+        3 : Search in a row and column wise sorted matrix
+        4 : Find Peak Element (2D Matrix)
+        5 : Matrix Median
 
     OnAnswer :
         1 : Find square root of a number in log n
-        Find the Nth root of a number using binary search
-        Koko Eating Bananas
-        Minimum days to make M bouquets
-        Find the smallest Divisor
-        Capacity to Ship Packages within D Days
-        Kth Missing Positive Number
-        Aggressive Cows
-        Book Allocation Problem
-        Split array - Largest Sum
-        Painter's partition
-        Minimize Max Distance to Gas Station
-        Median of 2 sorted arrays
-        Kth element of 2 sorted arrays
-    
-    2DArray : 
-        Find the row with maximum number of 1's
-        Search in a 2 D matrix
-        Search in a row and column wise sorted matrix
-        Find Peak Element (2D Matrix)
-        Matrix Median
-
-LinkedList :
-    SinglyLinkedList :
-        1 : Insert Node at Beginning
-        2 : Insert Node as End
-        3 : Delete Node in a Singly Linked List
-        4 : Delete Node in a Linked List without head and node will be not last element
-        5 : Find the length of the linkedlist
-        6 : Search an element in the LL
-
-    DoublyLinkedList :
-        1 : 
+        2 : Find the Nth root of a number using binary search
+        3 : Koko Eating Bananas
+        4 : Minimum days to make M bouquets
+        5 : Find the smallest Divisor
+        6 : Capacity to Ship Packages within D Days
+        7 : Kth Missing Positive Number
+        8 : Aggressive Cows
+        9 : Book Allocation Problem
+        10 : Split array - Largest Sum
+        11 : Painter's partition
+        12 : Minimize Max Distance to Gas Station
+        13 : Median of 2 sorted arrays
+        14 : Kth element of 2 sorted arrays
 
 BinaryTree :
     Traversal :
@@ -166,29 +154,103 @@ BinarySearchTree :
         14 : Recover BST | Correct BST with two nodes swapped
         15 : Largest BST in Binary Tree
 
-SlidingWindowAndTwoPointer :
-    MediumProblem :
-        1 : Longest Substring Without Repeating Characters
-        2 : Max Consecutive Ones III
-        3 : Fruit Into Baskets
-        4 : Longest repeating character replacement
-        5 : Binary subarray with sum [Trick: go with lessThanOrEqual]
-        6 : Count number of nice subarrays
-        7 : Number of substring containing all three characters
-        8 : Maximum point you can obtain from cards
+BitManipulation :
+    Easy :
+        Check if the i-th bit is set or not
+        Check if a number is odd or not
+        Check if a number is power of 2 or not
+        Count the number of set bits
+        Set/Unset the rightmost unset bit
+        Swap two numbers
+        Divide two integers without using multiplication, division and mod operator
 
-    HardProblem :
-        1 : Longest Substring with At Most K Distinct Characters
-        2 : Subarray with k different integers
-        3 : Minimum Window Substring
-        4 : Minimum Window Subsequence
+    Medium :
+        Count number of bits to be flipped to convert A to B
+        Find the number that appears odd number of times
+        Power Set
+        Find xor of numbers from L to R
+        Find the two numbers appearing odd number of times
 
-SortingTechniques :
-    1 : Selection Sort
-    2 : Insertion Sort
-    3 : Bubble Sort
-    4 : Merge Sort
-    5 : Quick Sort
+    Hard :
+        Print Prime Factors of a Number
+        All Divisors of a Number
+        Sieve of Eratosthenes
+        Find Prime Factorisation of a Number using Sieve
+        Power(n, x)
+
+DynamicProgramming :
+    1DDpProblem :
+        Climbing Stars
+        Frog Jump(DP-3)
+        Frog Jump with k distances(DP-4)
+        Maximum sum of non-adjacent elements (DP 5)
+        House Robber (DP 6)
+
+    2DDpProblem :
+        Ninja's Training (DP 7)
+        Grid Unique Paths : DP on Grids (DP8)
+        Grid Unique Paths 2 (DP 9)
+        Minimum path sum in Grid (DP 10)
+        Minimum path sum in Triangular Grid (DP 11)
+        Minimum/Maximum Falling Path Sum (DP-12)
+
+    3DDpProblem :
+        3-d DP : Ninja and his friends (DP-13)
+
+    DpOnSubSequence :
+        Subset sum equal to target (DP- 14)
+        Partition Equal Subset Sum (DP- 15)
+        Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16)
+        Count Subsets with Sum K (DP - 17)
+        Count Partitions with Given Difference (DP - 18)
+        Assign Cookies
+        Minimum Coins (DP - 20)
+        Target Sum (DP - 21)
+        Coin Change 2 (DP - 22)
+        Unbounded Knapsack (DP - 23)
+        Rod Cutting Problem | (DP - 24)
+
+    DpOnString :
+        Longest Common Subsequence | (DP - 25)
+        Print Longest Common Subsequence | (DP - 26)
+        Longest Common Substring | (DP - 27)
+        Longest Palindromic Subsequence | (DP-28)
+        Minimum insertions to make string palindrome | DP-29
+        Minimum Insertions/Deletions to Convert String | (DP- 30)
+        Shortest Common Supersequence | (DP - 31)
+        Distinct Subsequences| (DP-32)
+        Edit Distance | (DP-33)
+        Wildcard Matching | (DP-34)
+
+    DpOnStock :
+        Best Time to Buy and Sell Stock |(DP-35)
+        Buy and Sell Stock - II|(DP-36)
+        Buy and Sell Stocks III|(DP-37)
+        Buy and Stock Sell IV |(DP-38)
+        Buy and Sell Stocks With Cooldown|(DP-39)
+        Buy and Sell Stocks With Transaction Fee|(DP-40)
+
+    DpOnLIS :
+        Longest Increasing Subsequence |(DP-41)
+        Printing Longest Increasing Subsequence|(DP-42)
+        Longest Increasing Subsequence |(DP-43)
+        Largest Divisible Subset|(DP-44)
+        Longest String Chain|(DP-45)
+        Longest Bitonic Subsequence |(DP-46)
+        Number of Longest Increasing Subsequences|(DP-47)
+
+    DpOnMCM :
+        Matrix Chain Multiplication|(DP-48)
+        Matrix Chain Multiplication | Bottom-Up|(DP-49)
+        Minimum Cost to Cut the Stick|(DP-50)
+        Burst Balloons|(DP-51)
+        Evaluate Boolean Expression to True|(DP-52)
+        Palindrome Partitioning - II|(DP-53)
+        Partition Array for Maximum Sum|(DP-54)
+
+    DpOnSquare :
+        Maximum Rectangle Area with all 1's|(DP-55)
+        Count Square Submatrices with All Ones|(DP-56)
 
 Graph :
     Traversal :
@@ -217,6 +279,83 @@ Graph :
         19 : Bipartite Graph DFS
         20 : Number of Distinct Islands BFS
         21 : Number of Distinct Islands DFS
+
+    TopoSortProblem :
+        Topo Sort
+        Kahn's Algorithm
+        Cycle Detection in Directed Graph (BFS)
+        Course Schedule - I
+        Course Schedule - II
+        Find eventual safe states
+        Alien dictionary
+
+    ShortestPathProblem :
+        Shortest Path in UG with unit weights
+        Shortest Path in DAG
+        Djisktra's Algorithm
+        Shortest path in a binary maze
+        Path with minimum effort
+        Cheapest flights within k stops
+        Network Delay time
+        Number of ways to arrive at destination
+        Minimum steps to reach end from start by performing multiplication and mod operations with array elements
+        Bellman Ford Algorithm
+        Floyd Warshal Algorithm
+        Find the city with the smallest number of neighbors in a threshold distance
+
+    DisJointSetProblem :
+        Minimum Spanning Tree
+        Prim's Algorithm
+        Disjoint Set [Union by Rank]
+        Disjoint Set [Union by Size]
+        Kruskal's Algorithm
+        Number of operations to make network connected
+        Most stones removed with same rows or columns
+        Accounts merge
+        Number of island II
+        Making a Large Island
+        Swim in rising water
+
+    OtherAlgorithm :
+        Bridges in Graph
+        Articulation Point
+        Kosaraju's Algorithm
+
+LinkedList :
+    SinglyLinkedList :
+        1 : Insert Node at Beginning
+        2 : Insert Node as End
+        3 : Delete Node in a Singly Linked List
+        4 : Delete Node in a Linked List without head and node will be not last element
+        5 : Find the length of the linkedlist
+        6 : Search an element in the LL
+
+    DoublyLinkedList :
+        1 : 
+
+SlidingWindowAndTwoPointer :
+    MediumProblem :
+        1 : Longest Substring Without Repeating Characters
+        2 : Max Consecutive Ones III
+        3 : Fruit Into Baskets
+        4 : Longest repeating character replacement
+        5 : Binary subarray with sum [Trick: go with lessThanOrEqual]
+        6 : Count number of nice subarrays
+        7 : Number of substring containing all three characters
+        8 : Maximum point you can obtain from cards
+
+    HardProblem :
+        1 : Longest Substring with At Most K Distinct Characters
+        2 : Subarray with k different integers
+        3 : Minimum Window Substring
+        4 : Minimum Window Subsequence
+
+SortingTechniques :
+    1 : Selection Sort
+    2 : Insertion Sort
+    3 : Bubble Sort
+    4 : Merge Sort
+    5 : Quick Sort
 
 Tries : 
     1 : Implement TRIE | INSERT | SEARCH | STARTSWITH
