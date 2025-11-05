@@ -334,7 +334,37 @@ LinkedList :
         6 : Search an element in the LL
 
     DoublyLinkedList :
-        1 : 
+        1 : Insert a node in DLL
+        2 : Delete a node in DLL
+        3 : Reverse a DLL
+
+    MediumProblemOfSLL:
+        1 : Middle of a LinkedList
+        2 : Reverse a LinkedList Iterative
+        3 : Reverse a LL Recursive
+        4 : Detect a loop in LL
+        5 : Find the starting point in LL
+        6 : Length of Loop in LL
+        7 : Check if LL is palindrome or not
+        8 : Segrregate odd and even nodes in LL
+        9 : Remove Nth node from the back of the LL
+        10 : Delete the middle node of LL
+        11 : Sort LL
+        12 : Sort a LL of 0s 1s and 2s by changing links
+        13 : Find the intersection point of Y LL
+        14 : Add 1 to a number represented by LL
+        15 : Add 2 numbers in LL
+
+    MediumProblemOfDLL:
+        1 : Delete all occurrences of a key in DLL
+        2 : Find pairs with given sum in DLL
+        3 : Remove duplicates from sorted DLL
+
+    HardProblem:
+        1 : Reverse LL in group of given size K
+        2 : Rotate a LL
+        3 : Flattening of LL
+        4 : Clone a Linked List with random and next pointer
 
 SlidingWindowAndTwoPointer :
     MediumProblem :
